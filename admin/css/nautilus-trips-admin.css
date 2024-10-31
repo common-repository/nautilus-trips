@@ -1,0 +1,16 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.nt-bookings-table {
+    border-collapse:collapse;
+}
+.nt-bookings-table td, .nt-bookings-table th {
+    border:solid 1px #999999;
+    padding:3px 8px;
+}
+.nt-center {
+    text-align:center;
+}
+.form-table td {vertical-align:top;}
